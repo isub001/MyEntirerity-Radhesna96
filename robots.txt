@@ -1,0 +1,3 @@
+Sitemap: https://isub001.github.io/MyEntirerity-Radhesna96/sitemap.xml
+User-agent:*
+Disallow:
